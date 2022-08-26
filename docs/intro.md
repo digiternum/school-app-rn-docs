@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# School-Chat APP
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **School Chat in less than 5 minutes**.
 
 ## Getting Started
 
